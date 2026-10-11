@@ -18,7 +18,7 @@ The repository began as a minimal disclosure workspace. Refer to its tracked fil
 
 ## Responsible reporting
 
-Do not submit unpatched sensitive vulnerabilities or private artifacts through public issues or pull requests. Arrange a private reporting channel before exchanging such material.
+Do not submit unpatched sensitive vulnerabilities or private artifacts through public issues or pull requests. Use **Security → Report a vulnerability** for a private report; see [SECURITY.md](SECURITY.md) for reporting and evidence-handling guidance.
 
 ## Contributions
 
